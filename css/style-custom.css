@@ -512,88 +512,52 @@ h1.stunning-text-title {
 }
 ul.gdl-accordion li.active .accordion-title,
 ul.gdl-toggle-box li.active .toggle-box-title {
-    background-image: url(https://www.indianasurgicalassociates.com/wp-content/themes/medicalplus-v1-04/images/icon/dark/accordion-title-active.png);
 }
 ul.gdl-accordion li .accordion-title,
 ul.gdl-toggle-box li .toggle-box-title {
-    background-image: url(https://www.indianasurgicalassociates.com/wp-content/themes/medicalplus-v1-04/images/icon/dark/accordion-title.png);
 }
 a.qa-accordion-link {
-    background: url(https://www.indianasurgicalassociates.com/wp-content/themes/medicalplus-v1-04/images/icon/dark/qa-icon.png)
-        0px center no-repeat;
 }
 div.gdl-carousel-testimonial .testimonial-info {
-    background: url(https://www.indianasurgicalassociates.com/wp-content/themes/medicalplus-v1-04/images/icon/dark/testimonial-quote.png)
-        0 no-repeat;
 }
 div.testimonial-prev,
 div.personnal-prev {
-    background-image: url(https://www.indianasurgicalassociates.com/wp-content/themes/medicalplus-v1-04/images/icon/dark/testimonial-left.png);
 }
 div.testimonial-next,
 div.personnal-next {
-    background-image: url(https://www.indianasurgicalassociates.com/wp-content/themes/medicalplus-v1-04/images/icon/dark/testimonial-right.png);
 }
 .port-nav a {
-    background: url(https://www.indianasurgicalassociates.com/wp-content/themes/medicalplus-v1-04/images/icon/dark/port-nav.png)
-        no-repeat;
 }
 .port-nav-wrapper .port-nav {
-    background: url(https://www.indianasurgicalassociates.com/wp-content/themes/medicalplus-v1-04/images/icon/dark/port-nav.png)
-        no-repeat;
 }
 div.personnal-widget-prev {
-    background-image: url(https://www.indianasurgicalassociates.com/wp-content/themes/medicalplus-v1-04/images/icon/dark/personnal-widget-left.png);
 }
 div.personnal-widget-next {
-    background-image: url(https://www.indianasurgicalassociates.com/wp-content/themes/medicalplus-v1-04/images/icon/dark/personnal-widget-right.png);
 }
 div.gdl-search-button,
 div.custom-sidebar #searchsubmit {
-    background: url(https://www.indianasurgicalassociates.com/wp-content/themes/medicalplus-v1-04/images/icon/dark/search-button.png)
-        no-repeat center;
 }
 div.custom-sidebar ul li {
-    background: url(https://www.indianasurgicalassociates.com/wp-content/themes/medicalplus-v1-04/images/icon/dark/li-arrow.png)
-        no-repeat 0px 14px;
 }
 div.blog-date-wrapper {
-    background: url(https://www.indianasurgicalassociates.com/wp-content/themes/medicalplus-v1-04/images/icon/dark/blog-date.png)
-        no-repeat 0px center;
 }
 div.blog-author {
-    background: url(https://www.indianasurgicalassociates.com/wp-content/themes/medicalplus-v1-04/images/icon/dark/blog-author.png)
-        no-repeat 0px center;
 }
 div.blog-comment {
-    background: url(https://www.indianasurgicalassociates.com/wp-content/themes/medicalplus-v1-04/images/icon/dark/blog-comment.png)
-        no-repeat 0px center;
 }
 div.blog-tag {
-    background: url(https://www.indianasurgicalassociates.com/wp-content/themes/medicalplus-v1-04/images/icon/dark/blog-tag.png)
-        no-repeat 0px center;
 }
 div.footer-wrapper div.custom-sidebar ul li {
-    background: url(https://www.indianasurgicalassociates.com/wp-content/themes/medicalplus-v1-04/images/icon/dark/li-arrow.png)
-        no-repeat 0px 14px;
 }
 div.footer-wrapper div.custom-sidebar #searchsubmit {
-    background: url(https://www.indianasurgicalassociates.com/wp-content/themes/medicalplus-v1-04/images/icon/dark/search-button.png)
-        no-repeat center;
 }
 div.footer-wrapper div.personnal-widget-prev {
-    background-image: url(https://www.indianasurgicalassociates.com/wp-content/themes/medicalplus-v1-04/images/icon/dark/personnal-widget-left.png);
 }
 div.footer-wrapper div.personnal-widget-next {
-    background-image: url(https://www.indianasurgicalassociates.com/wp-content/themes/medicalplus-v1-04/images/icon/dark/personnal-widget-right.png);
 }
 .flex-carousel .flex-direction-nav li a.flex-prev {
-    background: url(https://www.indianasurgicalassociates.com/wp-content/themes/medicalplus-v1-04/images/icon/light/carousel-nav-left.png)
-        no-repeat;
 }
 .flex-carousel .flex-direction-nav li a.flex-next {
-    background: url(https://www.indianasurgicalassociates.com/wp-content/themes/medicalplus-v1-04/images/icon/light/carousel-nav-right.png)
-        no-repeat;
 }
 div.contact-form-wrapper input[type="text"],
 div.contact-form-wrapper input[type="password"],
